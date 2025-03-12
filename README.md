@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antoniojsm.
 - 👀 I’m interested in Programação, Redes, Hardware.
 - 🌱 I’m currently learning linguagem PHP.
-- 📫 How to reach me antoniojoseyt341@gmail.com
+- 📫 How to reach me antonio.jose2@aluno.ifsertao-pe.edu.br
 - ⚡ Fun fact: Adoro mexer com hardware.
 
 <!---
