@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniojsm
 - 👀 I’m interested in Programação, Redes, Hardware.
-- 🌱 I’m currently learning Front End.
+- 🌱 I’m currently learning Back-End Java POO.
 - 📫 How to reach me antonio.jose2@aluno.ifsertao-pe.edu.br
 - ⚡ Fun fact: Adoro mexer com hardware.
 
