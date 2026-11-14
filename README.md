@@ -37,6 +37,8 @@ Gosto de tecnologia, desenvolvimento de software e soluções que utilizam a pro
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,git,github)
 
+---
+
 <p align="center">
   <i>Aprendendo, desenvolvendo e evoluindo um código de cada vez. 🚀</i>
 </p>
