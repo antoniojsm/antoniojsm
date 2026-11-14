@@ -13,17 +13,19 @@ Gosto de tecnologia, desenvolvimento de software e soluções que utilizam a pro
 ---
 
 ### 🤝 Conecte-se comigo
-<a href="www.linkedin.com/in/antônio-josé-dos-santos-menezes-69a445327">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/antonio__jose16/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"/>
-</a>
-
-<a href="https://github.com/antoniojsm">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35" alt="GitHub"/>
-</a>
+<p>
+  <a href="www.linkedin.com/in/antônio-josé-dos-santos-menezes-69a445327">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/antonio__jose16/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/antoniojsm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
