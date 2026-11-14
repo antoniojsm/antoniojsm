@@ -27,7 +27,7 @@ Gosto de tecnologia, desenvolvimento de software e soluções que utilizam a pro
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://wa.me/55SEUDDDSEUNUMERO">
+  <a href="https://wa.me/5587991157182">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
