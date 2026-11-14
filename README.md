@@ -13,20 +13,17 @@ Gosto de tecnologia, desenvolvimento de software e soluções que utilizam a pro
 ---
 
 ### 🤝 Conecte-se comigo
+<a href="www.linkedin.com/in/antônio-josé-dos-santos-menezes-69a445327">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn"/>
+</a>
 
-<p>
-  <a href="SEU_LINKEDIN">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="antonio__jose16">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="antoniojsm">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://www.instagram.com/antonio__jose16/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/antoniojsm">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="35" alt="GitHub"/>
+</a>
 
 ---
 
@@ -39,10 +36,6 @@ Gosto de tecnologia, desenvolvimento de software e soluções que utilizam a pro
 **Banco de Dados e Ferramentas**
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,git,github)
-
----
-
----
 
 <p align="center">
   <i>Aprendendo, desenvolvendo e evoluindo um código de cada vez. 🚀</i>
