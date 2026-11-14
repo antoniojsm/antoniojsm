@@ -1,7 +1,9 @@
 # Olá! Eu sou Antônio José ⚙️
 
-💻 Técnico em Informática pelo **IFSertãoPE – Campus Salgueiro** 
-🌐 Graduando em Tecnologia em Sistemas para Internet pelo **IFSertãoPE - Campus Salgueiro**
+## 🎓 Formação Acadêmica
+
+💻 **Técnico em Informática pelo IFSertãoPE**.<br>
+🌐 **Graduando em Tecnologia em Sistemas para Internet pelo IFSertãoPE**.
 
 Gosto de tecnologia, desenvolvimento de software e soluções que utilizam a programação para resolver problemas do dia a dia. Estou em constante aprendizado, buscando desenvolver minhas habilidades e ampliar meus conhecimentos na área de Tecnologia da Informação.
 
